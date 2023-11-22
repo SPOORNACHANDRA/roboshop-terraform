@@ -42,7 +42,6 @@ components = {
 }
 
 
-
 zone_id = "Z07367993464WPX4UVN8D"
 
 
