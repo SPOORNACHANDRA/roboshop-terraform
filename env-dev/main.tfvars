@@ -1,7 +1,7 @@
-zone_id = "Z07367993464WPX4UVN8D"
+zone_id = "Z07143353VCC4QLIJE3K9"
 
 
-security_groups= [ "sg-03acb8c13890086e9" ]
+security_groups= [ "sg-01e08ae71abfec0c4" ]
 
 
 components = {
