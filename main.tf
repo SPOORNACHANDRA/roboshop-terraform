@@ -10,3 +10,6 @@ module "components" {
 
 
 
+terraform {
+  backend "s3" {}
+}
